@@ -1,0 +1,4 @@
+John:password123:john@example.com
+Jane:pass456:jane@example.com
+Alice:secret789:alice@example.com
+Bob:test123:bob@example.com

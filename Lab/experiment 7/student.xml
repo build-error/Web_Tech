@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <enrolment_number>001</enrolment_number>
+        <name>John Doe</name>
+        <mobile_number>1234567890</mobile_number>
+        <email>john.doe@example.com</email>
+    </student>
+    <student>
+        <enrolment_number>002</enrolment_number>
+        <name>Jane Smith</name>
+        <mobile_number>9876543210</mobile_number>
+        <email>jane.smith@example.com</email>
+    </student>
+</students>
